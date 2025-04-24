@@ -7,3 +7,5 @@ palavra = "-".join(lista)
 print(palavra)
 
 print(palavra.count('m'))
+
+nome = 'Amarildo'
