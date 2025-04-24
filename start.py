@@ -6,4 +6,4 @@ print(len(lista))
 palavra = "-".join(lista)
 print(palavra)
 
-print(palavra.count('o'))
+print(palavra.count('m'))
